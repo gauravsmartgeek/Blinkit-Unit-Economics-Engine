@@ -1,6 +1,6 @@
 # 🛒 Blinkit Unit Economics & Surge Pricing Engine 
 
-![Blinkit Command Center](Blinkit_Unit_Economic_Engine.JPEG)
+![Blinkit Command Center](Blinkit_Unit_Economic_Engine.jpeg)
 
 ## 📌 Executive Summary
 In the 10-minute quick commerce sector, micro-orders (low cart value, high distance) actively destroy profit margins. This project is an end-to-end data pipeline designed to mathematically identify bleeding transactions and deploy a statistically bounded surge pricing model to recover capital without triggering customer churn.
